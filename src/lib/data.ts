@@ -58,7 +58,7 @@ export const personalInfo = {
   email: "dev.filipefranca@gmail.com",
   linkedin: "https://www.linkedin.com/in/filiperfranca/",
   github: "https://github.com/Filiperfranca",
-  cvUrl: "/cv.pdf",
+  cvUrl: "/CV_FILIPE_FRANCA.pdf",
 };
 
 export const developerCard = {
